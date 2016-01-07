@@ -1,0 +1,8 @@
+The text of this file will be copied into another file named 
+
+target.txt
+
+using byte by byte copying method of java
+
+--
+Vivek Bhat
